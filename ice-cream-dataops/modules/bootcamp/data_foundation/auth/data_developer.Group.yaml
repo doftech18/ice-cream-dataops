@@ -77,3 +77,11 @@ capabilities:
       actions: [READ, WRITE]
       scope:
         all: {}
+  - locationFiltersAcl:
+      actions: [READ, WRITE]
+      scope:
+        all: {}
+  - diagramParsingAcl:
+      actions: [READ, WRITE]
+      scope:
+        all: {}
